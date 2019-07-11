@@ -1,6 +1,6 @@
 """
-Created 2019
-@author: Hassan Yousuf & Nabeel Hussain
+Created July, 2019
+@author: Hassan Yousuf & Nabeel Hussain 
 """
 
 import pyrealsense2 as rs
