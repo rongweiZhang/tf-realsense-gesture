@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+test_data/
+training_data/
+checkpoint
+*.pyc
+.meta
+.data-00000-of-00001
+.index
+
